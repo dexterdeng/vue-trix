@@ -45,7 +45,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "trix": "ssh://git@github.com:dexterdeng/trix.git#0de5442f8563b68336859e5e034704a6ae288a7d"
+    "trix": "ssh://git@github.com:dexterdeng/trix.git#d4e9963f2d725eb1575ef9e00dbb95e2612d14d1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.12.1",
