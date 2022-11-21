@@ -58,7 +58,7 @@
     "babel-eslint": "^10.0.1",
     "babel-jest": "^27.0.2",
     "identity-obj-proxy": "^3.0.0",
-    "jest-serializer-vue": "^2.0.2",
+    "jest-serializer-vue": "^3.1.0",
     "jest-transform-stub": "^2.0.0",
     "js-beautify": "^1.13.0",
     "rollup": "^1.32.1",
